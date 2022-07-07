@@ -6,11 +6,11 @@ It's an command line game.
 
 ## **Menu**
 
-![menu](./screenshots/menu.png)
+![menu](https://github.com/Anubhav1603/Tic-Tac-Toe/blob/master/screenshots/menu.PNG)
 
 ## **Game Play**
 
-![gameplay](./screenshots/gameplay.png)
+![gameplay](https://github.com/Anubhav1603/Tic-Tac-Toe/blob/master/screenshots/gameplay.PNG)
 
 ## **Requirements:**
 
